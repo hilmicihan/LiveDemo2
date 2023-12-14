@@ -1,1 +1,1 @@
-print("Hello, Git")
+print("Hel Git. Uludağ github eğitimi")
